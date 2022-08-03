@@ -1,8 +1,8 @@
-<img src="https://telegra.ph/file/198ae8fd6048244f918ab.jpg" align="right" width="200" height="200"/>
+<img src="https://telegra.ph/file/7fde4e3d6d2098de26d0b.jpg" align="right" width="200" height="200"/>
 
-# Prime Music Bot <img src="https://img.shields.io/github/v/release/Toni880/PrimeMusic?color=black&logo=github&logoColor=black&style=social" alt="RELEASE">
+# Prime Music Bot <img src="https://img.shields.io/github/v/release/jaabirosman/PrimeMusic?color=black&logo=github&logoColor=black&style=social" alt="RELEASE">
 
-[Prime Music Bot](https://github.com/Toni880/PrimeMusic) is a Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
+[Prime Music Bot](https://github.com/jaabirosman/PrimeMusic) is a Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
 
 * Youtube, Soundcloud, Apple Music, Spotify, Resso and Telegram Audios & Videos support.
 * Written from scratch, making it stable and less crashes.
@@ -29,7 +29,7 @@ This project is based on [Pyrogram](https://github.com/pyrogram) and [Py-Tgcalls
 
 ## 🖇 Generating Pyrogram String Session
 
-- Generate a Pyrogram String Session via [Replit](https://replit.com/@Tonic990/StringSession)
+- Generate a Pyrogram String Session via [Replit](https://replit.com/@Ribaj/StringSession)
 
 - Generate a Pyrogram String Session via [Telegram String Generation Bot](https://t.me/PrimeStringBot)
 
@@ -40,7 +40,7 @@ This project is based on [Pyrogram](https://github.com/pyrogram) and [Py-Tgcalls
 <br>
 
 <h4>Click the button below to deploy Prime on Heroku!</h4>    
-<a href="https://heroku.com/deploy?template=https://github.com/ribfirst/PrimeMusic"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a>
+<a href="https://heroku.com/deploy?template=https://github.com/jaabirosman/PrimeMusic"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a>
 
 <h4>Click the button below to deploy Prime on bot Telegram!</h4>
 <a href="https://telegram.dog/XTZ_HerokuBot?start=VG9uaTg4MC9QcmltZU11c2ljIG1haW4"><img src="https://img.shields.io/badge/Deploy%20To%20Bot%20Telegram-blue?style=for-the-badge&logo=telegram" width="200""/></a>
@@ -53,7 +53,7 @@ This project is based on [Pyrogram](https://github.com/pyrogram) and [Py-Tgcalls
 ### Tutorial Deploy on VPS
 ```console
 root@PrimeMusic~ $ screen -S PrimeMusic
-root@PrimeMusic~ $ git clone https://github.com/Toni880/PrimeMusic
+root@PrimeMusic~ $ git clone https://github.com/jaabirosman/PrimeMusic
 root@PrimeMusic~ $ cd PrimeMusic
 root@PrimeMusic~ $ bash setup
 ```
@@ -67,7 +67,7 @@ root@PrimeMusic~ $ bash start
 
 ## 🗂 License
 
-This project is licensed under the **GNU General Public License v3**. All designs were created by [@Toni880](https://github.com/Toni880) .
+This project is licensed under the **GNU General Public License v3**. All designs were created by [@Ribaj](https://github.com/ribaj) .
 
 See [LICENSE](../LICENSE) for more information.
 
@@ -76,6 +76,6 @@ Special thanks to these amazing projects/people which/who help power Prime Music
 - [Pyrogram](https://github.com/pyrogram/pyrogram)
 - [Py-Tgcalls](https://github.com/pytgcalls/pytgcalls)
 - [CallsMusic Team](https://github.com/Callsmusic)
-- [TheHamkerCat](https://github.com/TheHamkerCat)
-- [Charon Baglari](https://github.com/XCBv021)
-- [TeamYukki](https://github.com/TeamYukki)
+- [Ribaj Osmani](https://github.com/jaabirosman)
+- [OsmaniPro](https://github.com/OsmaniPro)
+- [TeamOsmani](https://github.com/Ribaj)
