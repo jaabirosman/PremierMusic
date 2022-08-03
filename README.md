@@ -29,7 +29,7 @@ This project is based on [Pyrogram](https://github.com/pyrogram) and [Py-Tgcalls
 
 ## 🖇 Generating Pyrogram String Session
 
-- Generate a Pyrogram String Session via [Replit](https://replit.com/@Ribaj/StringSession)
+- Generate a Pyrogram String Session via [Replit](https://replit.com/@Ribaj/Ribaj)
 
 - Generate a Pyrogram String Session via [Telegram String Generation Bot](https://t.me/PrimeStringBot)
 
