@@ -1,5 +1,5 @@
 {
-    "name": "Osmani Music",
+    "name": "Osmani Music Bot",
     "description": "Telegram Group Calls streaming bot with some useful features, written in Python with Pyrogram and Py-Tgcalls. Supporting platforms like Youtube, Spotify, Resso, AppleMusic, Soundcloud and M3u8 Links.",
     "logo": "https://telegra.ph/file/ead703562aa39dafa9347.jpg",
     "keywords": [
@@ -15,12 +15,12 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "14547608",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "c6c5e34f44bc5dd80dd2a4b894c7bcff",
         "required": true
       },
       "AUTO_LEAVING_ASSISTANT": {
@@ -30,27 +30,27 @@
       },
       "BOT_TOKEN": {
         "description": "A Bot's token from Botfather",
-        "value": "",
+        "value": "5253002724:AAHvqxxpWE-fvmQe5F8DBvRE7OQC_6J5Um0",
         "required": true
       },
       "MONGO_DB_URI": {
         "description": "Get a mongodb url from https://cloud.mongodb.com . You can leave it blank if you want , bot will use Yukki's database for you.",
-        "value": "",
+        "value": "mongodb+srv://Osmanibots:osmani@cluster0.p6dor.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
         "required": false
       },
       "MUSIC_BOT_NAME": {
         "description": "A name for your Music Bot. Please don't use ascii characters",
-        "value": "",
+        "value": "OsmaniMusic",
         "required": true
       },
       "OWNER_ID": {
         "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
-        "value": "",
+        "value": "1008271006",
         "required": true
       },
       "STRING_SESSION1": {
         "description": "A Pyrogram String Session. One Assistant is Compulsory.",
-        "value": "",
+        "value": "BACVWxLj5C49uOiU1BBGSH_XCAMRj2f9eUT68bbvBDQk32SOMChc_PNoXHoJSmCS5xBN4Q7s8kSoJAenN3fqmUQqGB9AmEKN_-ojoy2cik3grRWOVvbfzOw3rhIyjqiFdVKR5rKGeuvkXHhEMgcpkhYyeiH4O2XRX-ewiOZ3PTjVBusTgaccD_5f-xApHxhQ2Wd0beNi1g79pG8mnJ3ZzNw16uMOhM87TKoeRle-PGWqd9drdvT5Si9cX1QyU9oydq-xqQ-JtIYTgLvfe2e2s0fj4LJTD4xStC3Gm5psffbVmNIzakFIIPVtfhKnCd8bxx2qfW69XyghezFShvb7tQrCf0N3SgA",
         "required": true
       },
       "HEROKU_API_KEY": {
@@ -65,12 +65,12 @@
       },
       "LOG_GROUP_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Use only Group. Please don't use Channel ID.",
-        "value": "",
+        "value": "-1001150107625",
         "required": true
       },
       "UPSTREAM_REPO": {
         "description": "If you dont know this, Leave as it is",
-        "value": "https://github.com/ribfirst/PrimeMusic",
+        "value": "https://github.com/jaabirosman/PrimeMusic",
         "required": true
       },
       "UPSTREAM_BRANCH": {
